@@ -79,17 +79,17 @@ def canUnlockAll(boxes):
 ```
 
 2. Navigate to the project directory:
-```bash
+   ```bash
 cd 0x01-lockboxes
 ```
 
 3. Make sure the Python script is executable:
-```bash
+   ```bash
 chmod u+x 0-lockboxes.py
 ```
 
 4. Run the script:
-```bash
+   ```bash
 ./0-lockboxes.py
 ```
 
